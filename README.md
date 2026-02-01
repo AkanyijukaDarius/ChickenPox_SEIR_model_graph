@@ -10,5 +10,5 @@ The model divides a population into four primary compartments:
     Infectious (I): Individuals actively capable of spreading the virus to others.
     Recovered (R): Those who have overcome the infection and gained lifelong or temporary immunity.
 
-**To run the code make sure that you have python interpreter and ascipy, matplotlib installed on your computer.
+**To run the code make sure that you have python interpreter and scipy, matplotlib installed on your computer.
 Note that you can also run the code on an online python interpreter/compiler.**
