@@ -1,5 +1,5 @@
-##akayijukadarius
-#dariusakanyiuka3@gmail.com
+#akanyijukadarius
+#dariusakanyijuka3@gmail.com
 #github: https://github.com/AkanyijukaDarius
 
 import numpy as np
